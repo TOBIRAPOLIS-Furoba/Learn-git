@@ -11,6 +11,10 @@ gitを学ぶために作成されたリポジトリです。
 githubには、リポジトリのトップページに表示するためのREADME.mdファイルを設定することができます。
 内容はMarkDown形式で書くことができます
 
+## おすすめの動画・サイト
+https://www.youtube.com/playlist?list=PLh6V6_7fbbo_M3CqTeJvuXB08--fibyBu
+
+
 ### 以下マークダウン記法について
 
 [参考サイトリンク](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
