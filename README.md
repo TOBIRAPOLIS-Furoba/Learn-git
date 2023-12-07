@@ -12,6 +12,13 @@ githubには、リポジトリのトップページに表示するためのREADM
 内容はMarkDown形式で書くことができます
 
 ## おすすめの動画・サイト
+*KOKUBOさんの解説
+https://cotechworks.ltt.jp/2023/09/14/post-1061/
+
+*gitについての説明
+https://www.youtube.com/watch?v=WHwuNP4kalU
+
+*sorcetreeとgithubの説明
 https://www.youtube.com/playlist?list=PLh6V6_7fbbo_M3CqTeJvuXB08--fibyBu
 
 
