@@ -8,7 +8,7 @@ gitを学ぶために作成されたリポジトリです。
 しかし、gitを学ぶために使用する為、データの消失や書き換えが起こる場合があります。重要なファイルや、情報を書き込まないようにしてください。
 
 index.htmlはサイトとして公開されています。  
-https://tobiraporis-furoba.github.io/Learn-git/
+[https://tobiraporis-furoba.github.io/Learn-git/](https://tobirapolis-furoba.github.io/Learn-git/)
 
 ## このファイルについて
 githubには、リポジトリのトップページに表示するためのREADME.mdファイルを設定することができます。
